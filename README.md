@@ -9,7 +9,7 @@ __________________
 
 ## USAGE 使用方法
 
-直接收入 `clickWave.js` 即可！
+直接收入 `clickWave.js` 即可！ **下载 [clickWave.js](https://cdn.rawgit.com/wusfen/clickWave.js/master/clickWave.js)**
 
 ```html
 <!DOCTYPE html>

@@ -1,3 +1,6 @@
+/**
+ * https://github.com/wusfen/clickWave.js
+ */
 (function () {
   function Wave(x, y) {
     var wave = this;
@@ -53,5 +56,5 @@
       }, wave.time * 1000);
     })
   }
-  window.Wave = Wave;
+  // window.Wave = Wave;
 }());
