@@ -48,7 +48,7 @@
 
   if (new Wave().el.style.transform) {
     document.addEventListener('click', function(e) {
-      var wave = new Wave(e.x, e.y);
+      var wave = new Wave(e.clientX, e.clientY);
       wave.show();
       wave.animate();
       setTimeout(function () {
